@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# 运行产物（转换/抓取出来的文件，别误提交）
+*.mp3
+*.mp4
+*.aac
+*.m4a
+output.txt
+out/
+downloads/
